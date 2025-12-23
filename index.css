@@ -136,8 +136,14 @@ nav ul li a:hover{
     margin-bottom: 30px;
 }
 
+.intro .socials{
+    display: flex;
+    gap: 20px;
+}
+
 .intro .socials .social{
     transition: transform 0.3s ease;
+    
 }
 
 .intro .socials .social:hover{
